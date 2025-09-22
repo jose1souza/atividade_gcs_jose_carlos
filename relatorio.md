@@ -1,0 +1,32 @@
+# **O que é Gerenciamento de Configuração de Software**
+
+
+
+## **Definição:** 
+
+Conjunto de atividade para identificar, organizar, controlar e auditar mudanças em software.
+
+
+
+## **Utilizações:**
+
+GitHub e Git para para armazenar repositórios e versionar projetos respectivamente
+
+
+
+## **Criação de 3 Branchs:**
+
+
+
+**Main:** Principal, onde conterá o projeto de operação
+
+**Homologação/Testes:** Aqui o cliente e a equipe pode realizar testes e perceber os erros
+
+**Dev:** Branch de desenvolvimento, onde a equipe passa a criar códigos
+
+
+
+O uso de um **Gerenciamento de Configuração de Software** reduz conflitos entre a equipe, organiza os processos a serem cumpridos pela equipe
+
+
+
